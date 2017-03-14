@@ -1,5 +1,5 @@
 console.log('Loaded!');
 
-var element=doument.getElementByID('main-text');
+var element=doument.getElementById('main-text');
 element.innerHTML="New Value";
 
